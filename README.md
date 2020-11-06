@@ -1,4 +1,4 @@
 # Music-Player
 
-[Images](https://unsplash.com/)
-[Music](https://cchound.com/)
+Images used from [Unsplash](https://unsplash.com/) <br />
+Music used from [cchound](https://cchound.com/) <br />
